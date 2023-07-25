@@ -15,6 +15,7 @@ sites = {
 distances = {}
 
 # TODO здесь заполнение словаря
+a = 0
 
 print(distances)
 
